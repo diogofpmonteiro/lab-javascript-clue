@@ -7,7 +7,7 @@ Use this data to model your game cards into objects.
 ### Suspects
 
 ```
-mrGreen
+<!-- mrGreen  -->
 firstName: Jacob
 lastName: Green
 occupation: Entrepreneur
@@ -18,7 +18,7 @@ color: green
 ```
 
 ```
-drOrchid
+<!-- drOrchid -->
 firstName: Doctor
 lastName: Orchid
 occupation: Scientist
@@ -29,7 +29,7 @@ color: white
 ```
 
 ```
-profPlum
+<!-- profPlum -->
 firstName: Victor
 lastName: Plum
 occupation: Designer
@@ -40,7 +40,7 @@ color: purple
 ```
 
 ```
-missScarlet
+<!-- missScarlet -->
 firstName: Kasandra
 lastName: Scarlet
 occupation: Actor
@@ -51,7 +51,7 @@ color: red
 ```
 
 ```
-mrsPeacock
+<!-- mrsPeacock -->
 firstName: Eleanor
 lastName: Peacock
 occupation: Socialité
@@ -62,7 +62,7 @@ color: blue
 ```
 
 ```
-mrMustard
+<!-- mrMustard -->
 firstName: Jack
 lastName: Mustard
 occupation: Retired Football player
@@ -77,15 +77,15 @@ color: yellow
 ### Weapons
 
 ```
-name: rope --- weight: 10
-name: knife --- weight: 8
-name: candlestick --- weight: 2
-name: dumbbell --- weight: 30
-name: poison --- weight: 2
-name: axe --- weight: 15
-name: bat --- weight: 13
-name: trophy --- weight: 25
-name: pistol --- weight: 20
+name: rope, weight: 10
+name: knife, weight: 8
+name: candlestick, weight: 2
+name: dumbbell, weight: 30
+name: poison, weight: 2
+name: axe, weight: 15
+name: bat, weight: 13
+name: trophy, weight: 25
+name: pistol, weight: 20
 ```
 
 <br>
